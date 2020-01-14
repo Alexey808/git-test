@@ -38,7 +38,7 @@
 ```
   "scripts": {
     "test": "echo 'root repo'",
-    "subtree": "cd git-subtree-test2 && npm run"
+    "subtree": "cd git-subtree-test && npm run"
   }
 ```
 
